@@ -1,10 +1,6 @@
-# Ghadar-Project
+# Digitised and Onsite Materials
 
-Formats tables for printing to the terminal or inclusion in logs. Offers
-concise syntax for simple use cases and advanced options to address more
-complex needs.
-
-## Documentation
+## Location: New York Public Library
 
 See the complete documentation here:
 [Table-Format Documentation](https://docs.statn.dev/table-format/index.html)
