@@ -1,6 +1,8 @@
-# Digitised and Onsite Materials
+# Index of Sources on the Ghadar Movement
 
-## Location: New York Public Library
+## Digitised and Onsite Materials
+
+### Location: New York Public Library
 
 See the complete documentation here:
 [Table-Format Documentation](https://docs.statn.dev/table-format/index.html)
