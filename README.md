@@ -7,8 +7,8 @@
 #### Digital
 
 | Document/Book Name | Description | Author | Year of Publication |
-| --- | --- |
-| git status | List all new or modified files |
-| git diff | Show file differences that haven't been staged |
+| --- | --- |  --- | --- |
+| git status | List all new or modified files | test | test |
+| git diff | Show file differences that haven't been staged | test | test| 
 
 #### Onsite
