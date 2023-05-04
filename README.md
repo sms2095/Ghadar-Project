@@ -11,7 +11,6 @@
 | Ghadr Movement Original Documents Vol 1-A  | Original sources for the judicial trial proceedings of the Lahore Conspiracy Cases I and II (includes Bhagat Singh’s comments  and Individual judgements)  | Malwinder Jit Singh Waraich and Harinder Singh | November 2001 |
 |Ghadr Movement Original Documents Vol 1-B  | Original sources for the judicial trial proceedings of the Lahore Conspiracy Cases I and II (includes Bhagat Singh’s comments  and Individual judgements) | Malwinder Jit Singh Waraich and Harinder Singh | November 2001 | 
 | The Role of the Ghadar Party in the National Movement  | Tracing the beginning of the movement in UK to the prosecution of the Indian revolutionaries in US | Tilak Raj Sareen | 1979 | 
-| Report of the Komagata Maru Committee of Inquiry and some further documents (with an introduction by Darshan S Tatla) | The Komagata Maru and the Ghadr Party are interconnected and illustrate major aspects of the early twentieth-century history that links India and Canada: the struggle for Indian independence, in which the North America-based Ghadr Party played a heroic though ill-planned and ill-timed role, and the campaign among Sikhs in Canada for full citizenship and for an end to Canadian regulations barring immigration from India. These regulations had been in force since 1908 and had buttressed the idea of Canada as a "white man's country." | India Komagata Maru Committee of Inquiry | 2007 | 
 |  |  |  | | 
 |  |  |  | | 
 |  |  |  | | 
@@ -23,6 +22,7 @@
 
 | Document/Book Name | Description | Author | Year of Publication |
 | --- | --- |  --- | --- |
+| Report of the Komagata Maru Committee of Inquiry and some further documents (with an introduction by Darshan S Tatla) | The Komagata Maru and the Ghadr Party are interconnected and illustrate major aspects of the early twentieth-century history that links India and Canada: the struggle for Indian independence, in which the North America-based Ghadr Party played a heroic though ill-planned and ill-timed role, and the campaign among Sikhs in Canada for full citizenship and for an end to Canadian regulations barring immigration from India. These regulations had been in force since 1908 and had buttressed the idea of Canada as a "white man's country." | India Komagata Maru Committee of Inquiry | 2007 | 
 |  |  |  | |
 |  |  |  | | 
 
