@@ -54,4 +54,4 @@
 
 | Document/Book Name | Description | Author | Year of Publication |
 | --- | --- |  --- | --- |
-| Ghadar Party [Hindustan] , 1942-1945 <br><br>Record Group 319: Records of the Army StaffSeries: Intelligence and Investigative Dossiers Impersonal Files <br><br>This series is a document of 78 pages, not available to view online and will have to be accessed by visiting the site in-person| 
+| Ghadar Party [Hindustan] , 1942-1945 <br><br>Record Group 319: Records of the Army StaffSeries: Intelligence and Investigative Dossiers Impersonal Files <br><br>This series is a document of 78 pages, not available to view online and will have to be accessed by visiting the site in-person|  | Records of the Army Staff | The series was compiled between 1942 to 1945.|
