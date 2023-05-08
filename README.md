@@ -61,3 +61,10 @@
 | Document/Book Name | Description | Author | Year of Publication |
 | --- | --- |  --- | --- |
 | Ghadar Party [Hindustan] , 1942-1945 <br><br>Follow the link - https://catalog.archives.gov/id/22348411<br><br>Record Group 319: Records of the Army StaffSeries: Intelligence and Investigative Dossiers Impersonal Files <br><br>This series is a document of 78 pages, not available to view online and will have to be accessed by visiting the site in-person| The records were created in the course of intelligence operations, security and war crimes investigations, and other military justice proceedings. | Records of the Army Staff | The series was compiled between 1942 to 1945.|
+
+### Location: Online Sources / websites
+
+####The E-books will be uploaded to the folder by the same name.
+| Document/Book Name | Description | Author | Year of Publication |
+| --- | --- |  --- | --- |
+| French Strother, "Fighting Germany's Spies IX: The Hindu-German Conspiracy" (1918) | In ninth installment of "Fighting Germany's Spies" in the September 1918 issue of This World's Work (vol. 36), French Strother emphasizes the sensational qualities of the Hindu-German Conspiracy Trial. The article goes into great detail about the figures involved in the Hindu-German conspiracy plot, beginning with the founding of the Ghadar party by "fanatical Indian agitator" Har Dayal. | French Strother | 1918 |
