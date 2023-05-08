@@ -32,7 +32,7 @@
 
 | Document/Book Name | Description | Author | Year of Publication |
 | --- | --- |  --- | --- |
-|  |  |  | |
+| Notes on the Accused<br><br>Record Group 118: Records of U.S. Attorneys<br>Series: Neutrality Violation Investigation Case Files<br>File Unit: (US vs Franz Bopp, Ram Chandra, et al) Notes on the Accused<br><br>Follow the link - https://catalog.archives.gov/id/296681 | This document contains synopses of the activities of members of the Ghadr Party, an Indian independence party based in San Francisco. The document was prepared by the U. S. Attorney in San Francisco for the trial of these individuals. The document illustrates the global nature of the operations and the interactions of Indian nationals, German officials, and U. S. citizens.<br><br>The document's table of contents and the portion of the document pertaining to Ram Chandra, head of the Ghadr Party, is available online. |  | This item was produced or created in ca. 1918. The creator compiled or maintained the parent series, Neutrality Violation Investigation Case Files, between ca. 1913–ca. 1920. |
 |  |  |  | | 
 
 #### Onsite
