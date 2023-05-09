@@ -32,7 +32,9 @@
 
 | Document/Book Name | Description | Author | Year of Publication |
 | --- | --- |  --- | --- |
-| San Francisco Examiner | SF Examiner has multiple articles written by the founder of the Ghdar publication, Ram Chandra and Bhagwan Singh and also extensively covers the proceedings from the Hindu Conspiracy trials of 1914-1918 that ended with the assassination of Ram Chandar in the court, by his fellow defendant Ram Singh | San Francisco Examiner | The archives cover the time period between 1914 and 1918 |
+| San Francisco Examiner | SF Examiner has multiple articles written by the founder of the Ghdar publication, Ram Chandra and Bhagwan Singh and also extensively covers the proceedings from the Hindu Conspiracy trials of 1914-1920 that ended with the assassination of Ram Chandar in the court, by his fellow defendant Ram Singh | San Francisco Examiner | The archives cover the time period between 1914 and 1920 |
+| The Salt Lake Tribune | There are a couple newspaper clippings from this publication that explain in detail the events leading upto the assassination of Ram Chandra in court, during the Hindu-German conspiracy trials | The Salt Lake Tribune | The archives has news clippings of the time period 1918 |
+| Santa Cruz Evening News | There are a couple newspaper clippings from this publication that explain in detail the events leading upto the assassination of Ram Chandra in court, during the Hindu-German conspiracy trials | Santa Cruz Evening News | The archives cover the time period between 1914 and 1918 |
 
 
 #### Digital
