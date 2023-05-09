@@ -28,6 +28,13 @@
 
 ### Location: National Archives, San Francisco 
 
+#### Newspaper Archives 
+
+| Document/Book Name | Description | Author | Year of Publication |
+| --- | --- |  --- | --- |
+| San Francisco Examiner | SF Examiner has multiple articles written by the founder of the Ghdar publication, Ram Chandra and Bhagwan Singh and also extensively covers the proceedings from the Hindu Conspiracy trials of 1914-1918 that ended with the assassination of Ram Chandar in the court, by his fellow defendant Ram Singh | San Francisco Examiner | The archives cover the time period between 1914 and 1918 |
+
+
 #### Digital
 
 | Document/Book Name | Description | Author | Year of Publication |
