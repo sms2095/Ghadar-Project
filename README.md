@@ -7,10 +7,10 @@
 #### Digital
 
 | Document/Book Name | Description | Author | Year of Publication | Status |
-| --- | --- |  --- | --- |
-| Ghadr Movement Original Documents Vol 1-A  | Original sources for the judicial trial proceedings of the Lahore Conspiracy Cases I and II (includes Bhagat Singh’s comments  and Individual judgements)  | Malwinder Jit Singh Waraich and Harinder Singh | November 2001 |
-|Ghadr Movement Original Documents Vol 1-B  | Original sources for the judicial trial proceedings of the Lahore Conspiracy Cases I and II (includes Bhagat Singh’s comments  and Individual judgements) | Malwinder Jit Singh Waraich and Harinder Singh | November 2001 | 
-| The Role of the Ghadar Party in the National Movement  | Tracing the beginning of the movement in UK to the prosecution of the Indian revolutionaries in US | Tilak Raj Sareen | 1979 | 
+| --- | --- |  --- | --- | --- |
+| Ghadr Movement Original Documents Vol 1-A  | Original sources for the judicial trial proceedings of the Lahore Conspiracy Cases I and II (includes Bhagat Singh’s comments  and Individual judgements)  | Malwinder Jit Singh Waraich and Harinder Singh | November 2001 | Uploaded |
+|Ghadr Movement Original Documents Vol 1-B  | Original sources for the judicial trial proceedings of the Lahore Conspiracy Cases I and II (includes Bhagat Singh’s comments  and Individual judgements) | Malwinder Jit Singh Waraich and Harinder Singh | November 2001 | Uploaded |
+| The Role of the Ghadar Party in the National Movement  | Tracing the beginning of the movement in UK to the prosecution of the Indian revolutionaries in US | Tilak Raj Sareen | 1979 | Uploaded |
 |  |  |  | | 
 |  |  |  | | 
 |  |  |  | | 
@@ -20,12 +20,12 @@
 
 #### Onsite
 
-| Document/Book Name | Description | Author | Year of Publication |
-| --- | --- |  --- | --- |
-| Report of the Komagata Maru Committee of Inquiry and some further documents (with an introduction by Darshan S Tatla) | The Komagata Maru and the Ghadr Party are interconnected and illustrate major aspects of the early twentieth-century history that links India and Canada: the struggle for Indian independence, in which the North America-based Ghadr Party played a heroic though ill-planned and ill-timed role, and the campaign among Sikhs in Canada for full citizenship and for an end to Canadian regulations barring immigration from India. These regulations had been in force since 1908 and had buttressed the idea of Canada as a "white man's country." | India Komagata Maru Committee of Inquiry | 2007 | 
-| Select Documents on the Ghadr Party | Historical documents collected from several archival repositories in India and abroad on Hindustan Gadar Party and its role in Indian freedom movement. | Dr T R Sareen | 1994 |
-| The United States of India | Multiple issues of The United States of India, dubbed "A Monthly Review of Political, Economic, Social and Intellectual Independence of India," were published July 1923 onwards, from the Gadar Party headquarters in No. 5 Wood Street, San Francisco. The title "Pacific Coast Hindustani Association" was used in place for Gadar Party. | Gadar Party Press, SF | 1923-1927 | 
-| Collection of Pamphlets on India written for Hindustan Gadar Party | Gadar Party publication with three titles listed, as written by ED Gammons, 'Invincible india', 'India in Revolt', 'A Tragedy in India', includes several reports on the Gadar Party and events pertaining to the Indian freedom movement. | Gadar Party Publication | 
+| Document/Book Name | Description | Author | Year of Publication | Status |
+| --- | --- |  --- | --- | --- |
+| Report of the Komagata Maru Committee of Inquiry and some further documents (with an introduction by Darshan S Tatla) | The Komagata Maru and the Ghadr Party are interconnected and illustrate major aspects of the early twentieth-century history that links India and Canada: the struggle for Indian independence, in which the North America-based Ghadr Party played a heroic though ill-planned and ill-timed role, and the campaign among Sikhs in Canada for full citizenship and for an end to Canadian regulations barring immigration from India. These regulations had been in force since 1908 and had buttressed the idea of Canada as a "white man's country." | India Komagata Maru Committee of Inquiry | 2007 | Obtained, yet to upload |
+| Select Documents on the Ghadr Party | Historical documents collected from several archival repositories in India and abroad on Hindustan Gadar Party and its role in Indian freedom movement. | Dr T R Sareen | 1994 | Uploaded |
+| The United States of India | Multiple issues of The United States of India, dubbed "A Monthly Review of Political, Economic, Social and Intellectual Independence of India," were published July 1923 onwards, from the Gadar Party headquarters in No. 5 Wood Street, San Francisco. The title "Pacific Coast Hindustani Association" was used in place for Gadar Party. | Gadar Party Press, SF | 1923-1927 | Obtained, yet to upload |
+| Collection of Pamphlets on India written for Hindustan Gadar Party | Gadar Party publication with three titles listed, as written by ED Gammons, 'Invincible india', 'India in Revolt', 'A Tragedy in India', includes several reports on the Gadar Party and events pertaining to the Indian freedom movement. | Gadar Party Publication | Uploaded |
 
 ### Location: National Archives, San Francisco 
 
