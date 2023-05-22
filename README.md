@@ -26,6 +26,7 @@
 | Select Documents on the Ghadr Party | Historical documents collected from several archival repositories in India and abroad on Hindustan Gadar Party and its role in Indian freedom movement. | Dr T R Sareen | 1994 | Uploaded |
 | The United States of India | Multiple issues of The United States of India, dubbed "A Monthly Review of Political, Economic, Social and Intellectual Independence of India," were published July 1923 onwards, from the Gadar Party headquarters in No. 5 Wood Street, San Francisco. The title "Pacific Coast Hindustani Association" was used in place for Gadar Party. | Gadar Party Press, SF | 1923-1927 | Obtained, yet to upload |
 | Collection of Pamphlets on India written for Hindustan Gadar Party | Gadar Party publication with three titles listed, as written by ED Gammons, 'Invincible india', 'India in Revolt', 'A Tragedy in India', includes several reports on the Gadar Party and events pertaining to the Indian freedom movement. | Gadar Party Publication | 1912 onwards | Uploaded |
+| Report by the East India Sedition Committee, 1918 (Appointed to investigate revolutionary conspiracies in India) | Chapter 7 and 9 of this report, exclusively discuss conspiracies of the ghadar leaders based out of United States and German support to this movement | Published in England by H.M. Stationery Office | 1918 | Uploaded
 
 ### Location: National Archives, San Francisco 
 
