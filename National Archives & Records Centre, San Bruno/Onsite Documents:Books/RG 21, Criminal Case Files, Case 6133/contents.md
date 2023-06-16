@@ -16,3 +16,4 @@
 | 14 | Preston refuses to accpet Jodh Singh's plea of guilt | Refer to pint 13 for more information on this document | 
 | 15 | John Preston's statements in court against the Hindu-German defendants | 
 | 16 | Special Agent Don S Rathbun's statement | Rathbun compiles a report citing all the defendants had prior knowledge of Maverick and Annie Larsen's movements and that the Ghadr party, in unison with German Consul members, tried recruiting, training and disptaching revolutionaries with arms to India. | 
+| 17 | Tarak Nath's petition for return of Items | Tarak Nath files a petition in Court, detailing all his papers/items unlawfully confiscated by the US department wwho enetered and searched his house without an arrest warrant | 
