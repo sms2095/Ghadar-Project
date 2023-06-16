@@ -9,3 +9,4 @@
 | 7 | Echo of Mutiny | A poem written in one of the Ghadr issues encouraging men and women to give up theor internal conflicts and pick up arms and lead a revolution against the British Imperial Regime in India | 
 | 8 | Franz Bopp reuqesting acquital in his case | Franz's attorney cites insufficient evidence in proving Franz Bopp's connection with any activities of the Ghadr party or associated Indian members. |
 | 9 | Ghadr paper issue published in November 1915, titled 'Our Name and Work' | Instances of when Indian revolutionists have triumphed over the Britishers have been cited in this paper | The paper obtained in the archives was an incomplete version. | 
+| 10 | Ghadr extracts | This document is an exhaustive compilation by Preston, citing excerpts from all Ghdar issues published at that time | Ghadr extracts has been cited in most authors' works on this movement. | 
