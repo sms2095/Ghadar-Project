@@ -17,4 +17,4 @@
 | 15 | John Preston's statements in court against the Hindu-German defendants | 
 | 16 | Special Agent Don S Rathbun's statement | Rathbun compiles a report citing all the defendants had prior knowledge of Maverick and Annie Larsen's movements and that the Ghadr party, in unison with German Consul members, tried recruiting, training and disptaching revolutionaries with arms to India. | 
 | 17 | Tarak Nath's petition for return of Items | Tarak Nath files a petition in Court, detailing all his papers/items unlawfully confiscated by the US department wwho enetered and searched his house without an arrest warrant | 
-| 18 | Translation of a Hindi leaflet titled ' Indian Soldiers, Donot fight with Germany' | 
+| 18 | Translation of a Hindi leaflet titled ' Indian Soldiers, Donot fight with Germany' | The issue asks the Indians to not raise arms against Germany, a country fighting the British, as Indians must open their eyes and realise the true enemy is the British Empire and must raise arms against them. | 
