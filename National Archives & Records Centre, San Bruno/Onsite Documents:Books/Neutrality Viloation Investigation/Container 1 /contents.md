@@ -19,4 +19,4 @@
 | 17 | Letters between the Consul geenral and embassy of Netherlands regarding issuance of a Dutch passport to a possible Ghadar suspect | One Douwes Decker, a witness in the Hindu German trials, had applied for a Netherlands paspport, and teh Counsul General of the Netherlands is checking if it would be fine to issue one. | There are no more materials mentioning Decker in any court proceedings available at the Bruno Archives. | 
 | 18 | Letters from the US Attorney requesting for deciphering of messages | Letters addressed to Col. Fabyan by US Attorney requesting for deciphering some German messages. | 
 | 19 | Letters highlighting the activities of Tarak Nath Das and JC Hizar | Letters to special agents based out of NY and Chicago, detailing exchanges between Tarak Nath Das and his two lady friends and JC Hizar, a lawyer at San Diego who was also a fellow defendant in the Hindu German Case. | Refer to point 7 for more context. |
-| 20 | Letters to Preston highlighting details of German individuals in the Hindu case | 
+| 20 | Letters to Preston highlighting details of German individuals in the Hindu case |  
