@@ -1,3 +1,4 @@
 | No. | Document Title | Description | Comments | 
 | --- | --- |  --- | --- |
 | 1 | Annie Larsen Crew and Maverick voyage's details in local newspapers | The document is a set of telegrams written to various agents based out of the States, to get local newspaper articles on the movements of Annie Larsen/Maverick and the crew members of the same. | The local newspapers mentioned in the first telegram that consists of news on the movements of these ships (Hawai and Honululu issues) , can be pulled out, if required. | 
+| 2 | Annie Larsen transaction receipts and cargo details | The document consists of a set of telegrams and letters exchanged between US attorney, John Preston and Special agents Don Rathbun, consisitng of investigative details on the receipts with Annie Larsen's transcation details, cargo transfers at the time of detainment at the Washington Port and personnels involved in these transactions. | 
