@@ -1,4 +1,4 @@
-| No. | Document Title | Description | Comments | 
+Letters to Preston highlighting details of German individuals in the Hindu case.pdf| No. | Document Title | Description | Comments | 
 | --- | --- |  --- | --- |
 | 1 | Annie Larsen Crew and Maverick voyage's details in local newspapers | The document is a set of telegrams written to various agents based out of the States, to get local newspaper articles on the movements of Annie Larsen/Maverick and the crew members of the same. | The local newspapers mentioned in the first telegram that consists of news on the movements of these ships (Hawai and Honululu issues) , can be pulled out, if required. | 
 | 2 | Annie Larsen transaction receipts and cargo details | The document consists of a set of telegrams and letters exchanged between US attorney, John Preston and Special agents Don Rathbun, consisitng of investigative details on the receipts with Annie Larsen's transcation details, cargo transfers at the time of detainment at the Washington Port and personnels involved in these transactions. | 
@@ -19,4 +19,4 @@
 | 17 | Letters between the Consul geenral and embassy of Netherlands regarding issuance of a Dutch passport to a possible Ghadar suspect | One Douwes Decker, a witness in the Hindu German trials, had applied for a Netherlands paspport, and teh Counsul General of the Netherlands is checking if it would be fine to issue one. | There are no more materials mentioning Decker in any court proceedings available at the Bruno Archives. | 
 | 18 | Letters from the US Attorney requesting for deciphering of messages | Letters addressed to Col. Fabyan by US Attorney requesting for deciphering some German messages. | 
 | 19 | Letters highlighting the activities of Tarak Nath Das and JC Hizar | Letters to special agents based out of NY and Chicago, detailing exchanges between Tarak Nath Das and his two lady friends and JC Hizar, a lawyer at San Diego who was also a fellow defendant in the Hindu German Case. | Refer to point 7 for more context. |
-| 20 | 
+| 20 | Letters to Preston highlighting details of German individuals in the Hindu case | 
